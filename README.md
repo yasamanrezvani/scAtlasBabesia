@@ -10,5 +10,6 @@
 
 ### Running the code:
 To install the code please clone the library by copy pasting the following in your terminal:
+
 git clone https://github.com/yasamanrezvani/scBabesiaAtlas.git
 
